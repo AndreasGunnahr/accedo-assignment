@@ -12,6 +12,8 @@ change video from the `Open playlist` dropdown. Below you can see which routes t
 
 2. The `/watch/[title]` page contains the actual video player where the user can watch the selected video.
 
+To add a new video to the playlist the user needs to use a existing video source link (all sources can be found in the `data` folder)
+
 ## How to run the code locally
 
 1. Clone the repository to your computer.
